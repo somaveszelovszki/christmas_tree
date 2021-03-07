@@ -1,0 +1,3 @@
+[submodule "altium-libs"]
+	path = altium-libs
+	url = ../altium-libs
